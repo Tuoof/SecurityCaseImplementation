@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Encryption_Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Encryption_Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Encryption_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encryption_Library/1.0.0": {
+      "type": "project",
+      "path": "../Encryption_Library/Encryption_Library.csproj",
+      "msbuildProject": "../Encryption_Library/Encryption_Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Encryption_Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\andik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GitHub\\SecurityCaseImplementation\\Server_Encryption\\Server_Encryption.csproj",
+      "projectName": "Server_Encryption",
+      "projectPath": "C:\\GitHub\\SecurityCaseImplementation\\Server_Encryption\\Server_Encryption.csproj",
+      "packagesPath": "C:\\Users\\andik\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\SecurityCaseImplementation\\Server_Encryption\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\andik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\GitHub\\SecurityCaseImplementation\\Encryption_Library\\Encryption_Library.csproj": {
+              "projectPath": "C:\\GitHub\\SecurityCaseImplementation\\Encryption_Library\\Encryption_Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
