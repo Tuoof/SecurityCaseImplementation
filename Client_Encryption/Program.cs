@@ -6,7 +6,7 @@ namespace Client_Encryption
     {
         static void Main()
         {
-            Client Client = new Client();
+            Client client = new Client();
         }
     }
 }

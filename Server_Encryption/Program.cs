@@ -6,7 +6,7 @@ namespace Server_Encryption
     {
         static void Main()
         {
-            Server Server = new Server();
+            Server server = new Server();
         }
     }
 }

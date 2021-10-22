@@ -12,7 +12,6 @@ C:\GitHub\SecurityCaseImplementation\Client_Encryption\bin\Debug\net5.0\Client_E
 C:\GitHub\SecurityCaseImplementation\Client_Encryption\bin\Debug\net5.0\Encryption_Library.dll
 C:\GitHub\SecurityCaseImplementation\Client_Encryption\bin\Debug\net5.0\Encryption_Library.pdb
 C:\GitHub\SecurityCaseImplementation\Client_Encryption\obj\Debug\net5.0\Client_Encryption.csproj.AssemblyReference.cache
-C:\GitHub\SecurityCaseImplementation\Client_Encryption\obj\Debug\net5.0\Client_Encryption.csproj.CopyComplete
 C:\GitHub\SecurityCaseImplementation\Client_Encryption\obj\Debug\net5.0\Client_Encryption.dll
 C:\GitHub\SecurityCaseImplementation\Client_Encryption\obj\Debug\net5.0\ref\Client_Encryption.dll
 C:\GitHub\SecurityCaseImplementation\Client_Encryption\obj\Debug\net5.0\Client_Encryption.pdb

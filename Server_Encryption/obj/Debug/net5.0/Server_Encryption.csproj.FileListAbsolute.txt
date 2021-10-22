@@ -12,7 +12,6 @@ C:\GitHub\SecurityCaseImplementation\Server_Encryption\bin\Debug\net5.0\ref\Serv
 C:\GitHub\SecurityCaseImplementation\Server_Encryption\bin\Debug\net5.0\Server_Encryption.pdb
 C:\GitHub\SecurityCaseImplementation\Server_Encryption\bin\Debug\net5.0\Encryption_Library.dll
 C:\GitHub\SecurityCaseImplementation\Server_Encryption\bin\Debug\net5.0\Encryption_Library.pdb
-C:\GitHub\SecurityCaseImplementation\Server_Encryption\obj\Debug\net5.0\Server_Encryption.csproj.CopyComplete
 C:\GitHub\SecurityCaseImplementation\Server_Encryption\obj\Debug\net5.0\Server_Encryption.dll
 C:\GitHub\SecurityCaseImplementation\Server_Encryption\obj\Debug\net5.0\ref\Server_Encryption.dll
 C:\GitHub\SecurityCaseImplementation\Server_Encryption\obj\Debug\net5.0\Server_Encryption.pdb
