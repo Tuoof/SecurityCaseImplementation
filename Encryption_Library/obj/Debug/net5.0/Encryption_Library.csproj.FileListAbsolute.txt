@@ -9,3 +9,4 @@ C:\GitHub\SecurityCaseImplementation\Encryption_Library\bin\Debug\net5.0\Encrypt
 C:\GitHub\SecurityCaseImplementation\Encryption_Library\obj\Debug\net5.0\Encryption_Library.dll
 C:\GitHub\SecurityCaseImplementation\Encryption_Library\obj\Debug\net5.0\ref\Encryption_Library.dll
 C:\GitHub\SecurityCaseImplementation\Encryption_Library\obj\Debug\net5.0\Encryption_Library.pdb
+C:\GitHub\SecurityCaseImplementation\Encryption_Library\obj\Debug\net5.0\Encryption_Library.csproj.AssemblyReference.cache

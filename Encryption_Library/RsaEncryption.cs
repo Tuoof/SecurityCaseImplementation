@@ -25,7 +25,7 @@ namespace Encryption_Library
             privateKey = csp.ExportParameters(true);
             publicKey = csp.ExportParameters(false);
             listOtherPublicKey = new List<RSAParameters>();
-            txtPath = "\\Server-Public-Key.txt";
+            txtPath = "C:\\Users\\andik\\Documents\\Tugas\\Pemrograman Jarkom\\Key\\Server-Public-Key.txt";
         }
 
         // ------------------------------------ General Method ---------------------------------------------------------
